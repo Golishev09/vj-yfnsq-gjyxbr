@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF56787684B-00C04F79EFBC}") = "avrora", "avrora\avrora.c567567sproj", "{85E91BBF-5707-4787-B717-1539982860E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug678786|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875675E91BBF-5707-4787-B717-1539982860E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E91BB678456F-5707-4787-B717-1539982860E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E91BBF-5707-4785675677-B717-1539982860E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E91BBF-570ghj5675677-4787-B717-1539982860E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
